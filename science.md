@@ -11,7 +11,7 @@ with the connections pointing the same direction. I matched the neurons by their
 wiring only, not by cell type, so they aren't the same cells – they just have the
 same shape.
 
-![Figure 1](/Users/nithilansundaram/figures/circuit_clean.png)
+![Figure 1](circuit_clean.png)
 
 **Figure 1.** The star, shown for FAFB. Left: the hub (CT1) with 36 of its 1,187
 leaves so you can actually see the shape. Right: the full circuit with all 1,187
@@ -39,7 +39,7 @@ the other two datasets (MCNS and MAOL) had similar big hubs, since they also
 include a lot of the optic lobe – but I want to be clear those aren't necessarily
 the same cell, they just have the same shape.
 
-![Figure 2](/Users/nithilansundaram/figures/ct1_mesh.png)
+![Figure 2](ct1_mesh.png)
 
 **Figure 2.** The 3D shape of CT1 in FAFB from Codex (ID `720575940628908548`).
 
