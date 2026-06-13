@@ -1,21 +1,23 @@
 # The Shared Circuit and What It Means
 
-*[Your name] – FlyWire challenge – [date]*
+*[Nithilan Sundaram] – FlyWire challenge – [06-12-2026]*
 
 ## What I found
 
 I found the same circuit shape in three datasets (MCNS, FAFB, and MAOL): a "star"
 of **1,188 neurons** – one central hub neuron that connects out to 1,187 others,
-and those 1,187 don't connect to each other. It's the same in all three datasets,
+and those 1,187 don't connect to each other, so it's an independent set.
+It's the same in all three datasets,
 with the connections pointing the same direction. I matched the neurons by their
 wiring only, not by cell type, so they aren't the same cells – they just have the
-same shape.
+same shape.It is induced isomorphic.
 
 ![Figure 1](circuit_clean.png)
 
 **Figure 1.** The star, shown for FAFB. Left: the hub (CT1) with 36 of its 1,187
 leaves so you can actually see the shape. Right: the full circuit with all 1,187
-leaves – it looks dense because the one hub connects to so many neurons at once.
+leaves – it looks dense because the one hub connects to so many neurons at once. In the Github Repository there is another circuit.png that 
+is the entire circuit but jumbled up in a dense fashion.
 
 ## The biology
 
